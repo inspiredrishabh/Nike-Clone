@@ -1,5 +1,5 @@
 # Nike-Clone
-![Screenshot Title](src/assets/Screenshot 2025-03-20 133620.png)
+![Preview](src/assets/Screenshot.png)
 
 ## Overview
 Nike-Clone is a web page with a responsive navigation bar, hero section, and additional content sections. It utilizes HTML and CSS, including custom fonts and a color scheme for a visually appealing design.
